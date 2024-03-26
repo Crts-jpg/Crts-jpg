@@ -1,7 +1,7 @@
-<img src="https://wallpapercave.com/wp/wp1810175.png" width="100%" height="auto"/>
+<img src="https://wallpapercave.com/wp/wp13600773.jpg" width="100%" height="auto"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&color=F76565&random=false&width=500&height=70&duration=4000&lines=Okkei%2C+Yameru+na!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&color=4D4DFF&random=false&width=500&height=70&duration=4000&lines=Okkei%2C+Yameru+na!" />
 </h1>
 
 <br>
@@ -9,43 +9,68 @@
 <h2 align="center">🎮 Programming Languages 🎮</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" />
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
-  <img src="https://skillicons.dev/icons?i=express" alt="Express" />
-  <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJs" />
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJs" />
-  <img src="https://skillicons.dev/icons?i=react" alt="React" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" />
-  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" />
-  <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" />
-  
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=py" />
+  </a>  
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=java"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=ts" />
+  </a>
+  <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=express" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nest" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+  </a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=vite" alt="Vite" />
+  </a>
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" />
+  </a>
 </p>
 
 <br>
 
-<h2 align="center">🎨 Pixel Art Tools 🎨</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=blender" alt="Blender" />
-</p>
+<h2 align="center">🎨 Art Tools 🎨</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=piskel" alt="Piskel" />
-  <img src="https://skillicons.dev/icons?i=aseprite" alt="Aseprite" />
-  <img src="https://skillicons.dev/icons?i=graphicsgale" alt="GraphicsGale" />
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=blender" alt="Blender" />
+  </a>
 </p>
 
 <br>
 
 <div align="center">
-  <h2>🕹️ Game Development Tools 🕹️</h2>
-  
+  <h2>🕹️ Game Development Tools 🕹️</h2>  
   <p>
-    <img src="https://skillicons.dev/icons?i=unity" alt="Unity" />
-    <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" />    
-    
+    <a href="https://unity.com/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=unity" alt="Unity" />      
+    </a>
+    <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" />        
+    </a>
   </p>
 </div>
 
@@ -54,9 +79,21 @@
 <h2 align="center">🛠️ IDEs and Tools 🛠️</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" />
-  <img src="https://skillicons.dev/icons?i=windows" alt="Windows" />    
-  <img src="https://skillicons.dev/icons?i=intellij" alt="IntelliJ IDEA" />
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" />
+  </a>
+  <a href="https://www.microsoft.com/en-id/windows" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=windows" alt="Windows" />
+  </a>    
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=postgres"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=postman" />
+  </a>
 </p>
 
 <br>
@@ -89,10 +126,10 @@
   <br>
   
   <p align="center">
-    <img style="width: 150px; height: 150px; border-radius: 10px" src="https://i.pinimg.com/564x/88/1f/a1/881fa19c8997aeda1227318bc438d4f0.jpg" alt="Support 1" />
-    <img style="width: 150px; height: 150px; border-radius: 10px" src="https://i.pinimg.com/564x/16/08/ae/1608aef52b0cf5d10c1999421d3a3776.jpg" alt="Support 2" />
-    <img style="width: 150px; height: 150px; border-radius: 10px" src="https://i.pinimg.com/564x/cc/f2/f5/ccf2f5f9725d8802d6f60016ea39783a.jpg" alt="Support 3" />
-    <img style="width: 150px; height: 150px; border-radius: 10px" src="https://i.pinimg.com/564x/e8/99/e4/e899e402cdac5c14a9e6209c9bac8962.jpg" alt="Support 4" />
+    <img style="width: 150px; height: 150px; border-radius: 10px" src="https://i.pinimg.com/474x/f5/31/8b/f5318b2e0906c95f4d5e79680f0eb42f.jpg" alt="Support 1" />
+    <img style="width: 150px; height: 150px; border-radius: 10px" src="https://i.pinimg.com/474x/a5/06/07/a50607288b70b9c5f2fef3a355718ec7.jpg" alt="Support 2" />
+    <img style="width: 150px; height: 150px; border-radius: 10px" src="https://i.pinimg.com/474x/ef/cf/6e/efcf6ed5870b3ca0b0404f58d6726d82.jpg" alt="Support 3" />
+    <img style="width: 150px; height: 150px; border-radius: 10px" src="https://i.pinimg.com/474x/26/34/5e/26345e8598b82a6f3b5e499964887f03.jpg" alt="Support 4" />
     <img style="width: 150px; height: 150px; border-radius: 10px" src="https://i.pinimg.com/564x/aa/73/2e/aa732e536936312dc5cb9a88d1598929.jpg" alt="Support 5" />
     <img style="width: 150px; height: 150px; border-radius: 10px" src="https://i.pinimg.com/564x/fc/00/73/fc0073c14e9f3397ae783ca65c37b245.jpg" alt="Support 6" />
     <img style="width: 150px; height: 150px; border-radius: 10px" src="https://i.pinimg.com/564x/2e/e0/df/2ee0dfa83376b6cef27a25214f67a3ce.jpg" alt="Support 7" />
