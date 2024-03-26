@@ -1,4 +1,4 @@
-<img src="https://wallpapercave.com/wp/wp4304701.png" width="100%" height="auto"/>
+<img src="https://wallpapercave.com/wp/wp1810175.png" width="100%" height="auto"/>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&color=F76565&random=false&width=500&height=70&duration=4000&lines=Okkei%2C+Yameru+na!" />
@@ -13,12 +13,23 @@
   <img src="https://skillicons.dev/icons?i=java" alt="Java" />
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=go" alt="Go" />
+  <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
+  <img src="https://skillicons.dev/icons?i=express" alt="Express" />
+  <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJs" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJs" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" />
+  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" />
+  <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" />
+  
 </p>
 
 <br>
 
 <h2 align="center">🎨 Pixel Art Tools 🎨</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=blender" alt="Blender" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=piskel" alt="Piskel" />
@@ -33,8 +44,8 @@
   
   <p>
     <img src="https://skillicons.dev/icons?i=unity" alt="Unity" />
-    <img src="https://skillicons.dev/icons?i=unreal" alt="Unreal Engine" />
-    <img src="https://skillicons.dev/icons?i=godot" alt="Godot Engine" />
+    <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" />    
+    
   </p>
 </div>
 
@@ -44,7 +55,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" />
-  <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" />
+  <img src="https://skillicons.dev/icons?i=windows" alt="Windows" />    
   <img src="https://skillicons.dev/icons?i=intellij" alt="IntelliJ IDEA" />
 </p>
 
@@ -54,11 +65,11 @@
   <h2>🎲 Github Stats 🎲</h2>
   
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ddhaifullah&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="192px" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Crts-jpg&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="192px" alt="Top Languages" />
   </p>
   
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=ddhaifullah&show_icons=true&locale=en&hide=issues&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true" height="200px" width="450px" alt="Github Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Crts-jpg&show_icons=true&locale=en&hide=issues&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true" height="200px" width="450px" alt="Github Stats" />
   </p>
 </div>
 
@@ -66,7 +77,7 @@
   <h2>👾 Activity Graph 👾</h2>
   
   <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ddhaifullah&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Crts-jpg&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
   </p>
 </div>
 
