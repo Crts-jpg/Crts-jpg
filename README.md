@@ -1,7 +1,7 @@
 <img src="https://wallpapercave.com/wp/wp13600773.jpg" width="100%" height="auto"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&color=4D4DFF&random=false&width=500&height=70&duration=4000&lines=Okkei%2C+Yameru+na!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&color=4D4DFF&random=false&width=500&height=70&duration=4000&lines=Game%2C+Over+!?!" />
 </h1>
 
 <br>
