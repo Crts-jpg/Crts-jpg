@@ -1,11 +1,4 @@
-<head>  
-  <link rel="stylesheet" href="style.css">
-  <style>
-    body { background-color: lightblue; }
-  </style>
-
 <img src="https://media1.tenor.com/m/MZTeWTB-3p4AAAAd/ff7-tifa.gif" width="100%" height="auto"/>
-
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=40&center=true&vCenter=true&color=00FF00&random=false&width=400&height=80&duration=3000&lines=LEVEL%20UP!" alt="Animated Title" />
@@ -141,6 +134,3 @@
     <img style="width: 150px; height: 150px; border-radius: 10px" src="https://i.pinimg.com/474x/ef/cf/6e/efcf6ed5870b3ca0b0404f58d6726d82.jpg" alt="Support 3" />
     <img style="width: 150px; height: 150px; border-radius: 10px" src="https://i.pinimg.com/474x/26/34/5e/26345e8598b82a6f3b5e499964887f03.jpg" alt="Support 4" />
 </div>
-
-
-</head>
