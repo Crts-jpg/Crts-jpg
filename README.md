@@ -1,5 +1,8 @@
 <head>  
   <link rel="stylesheet" href="style.css">
+  <style>
+    body { background-color: lightblue; }
+  </style>
 
 <img src="https://media1.tenor.com/m/MZTeWTB-3p4AAAAd/ff7-tifa.gif" width="100%" height="auto"/>
 
