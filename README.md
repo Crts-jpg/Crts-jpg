@@ -1,8 +1,9 @@
-<img src="https://wallpapercave.com/wp/wp13600773.jpg" width="100%" height="auto"/>
+<img src="https://media1.tenor.com/m/MZTeWTB-3p4AAAAd/ff7-tifa.gif" width="100%" height="auto"/>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&color=4D4DFF&random=false&width=500&height=70&duration=4000&lines=GAME%20OVER" />
-</h1>
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=40&center=true&vCenter=true&color=00FF00&random=false&width=400&height=80&duration=3000&lines=LEVEL%20UP!" alt="Animated Title" />
+</h2>
 
 
 <br>
@@ -131,8 +132,4 @@
     <img style="width: 150px; height: 150px; border-radius: 10px" src="https://i.pinimg.com/474x/a5/06/07/a50607288b70b9c5f2fef3a355718ec7.jpg" alt="Support 2" />
     <img style="width: 150px; height: 150px; border-radius: 10px" src="https://i.pinimg.com/474x/ef/cf/6e/efcf6ed5870b3ca0b0404f58d6726d82.jpg" alt="Support 3" />
     <img style="width: 150px; height: 150px; border-radius: 10px" src="https://i.pinimg.com/474x/26/34/5e/26345e8598b82a6f3b5e499964887f03.jpg" alt="Support 4" />
-    <img style="width: 150px; height: 150px; border-radius: 10px" src="https://i.pinimg.com/564x/aa/73/2e/aa732e536936312dc5cb9a88d1598929.jpg" alt="Support 5" />
-    <img style="width: 150px; height: 150px; border-radius: 10px" src="https://i.pinimg.com/564x/fc/00/73/fc0073c14e9f3397ae783ca65c37b245.jpg" alt="Support 6" />
-    <img style="width: 150px; height: 150px; border-radius: 10px" src="https://i.pinimg.com/564x/2e/e0/df/2ee0dfa83376b6cef27a25214f67a3ce.jpg" alt="Support 7" />
-  </p>
 </div>
