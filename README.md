@@ -1,17 +1,17 @@
 <img src="https://media1.tenor.com/m/MZTeWTB-3p4AAAAd/ff7-tifa.gif" width="100%" height="auto"/>
 
+
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=40&center=true&vCenter=true&color=00FF00&random=false&width=400&height=80&duration=3000&lines=LEVEL%20UP!" alt="Animated Title" />
 </h2>
 
-<br>
-<!-- dari sini -->
-<div class="container">
 
-  <div class="card">
-    <h2> 🎮 Programming Languages 🎮 </h2>
-    <p class="card-content">
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
+<br>
+
+<h2 align="center">🎮 Programming Languages 🎮</h2>
+
+<p align="center">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=py" />
   </a>  
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -50,56 +50,55 @@
   <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" />
   </a>
-      </p>
-  </div>
+</p>
 
-  <!-- <div class="card">
-    <h2> 🎨 Art Tools 🎨 </h2>
-    <p class="card-content">
-      <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=blender" alt="Blender" />
-      </a>
-    </p>
-  </div> -->
+<br>
 
-  <div class="card">
-    <h2>️ 🕹️ Game Development Tools 🕹️ ️</h2>
-    <p class="card-content">
-      <a href="https://unity.com/" target="_blank" rel="noreferrer">
+<h2 align="center">🎨 Art Tools 🎨</h2>
+
+<p align="center">
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=blender" alt="Blender" />
+  </a>
+</p>
+
+<br>
+
+<div align="center">
+  <h2>🕹️ Game Development Tools 🕹️</h2>  
+  <p>
+    <a href="https://unity.com/" target="_blank" rel="noreferrer">
       <img src="https://skillicons.dev/icons?i=unity" alt="Unity" />      
     </a>
     <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
       <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" />        
     </a>
-    <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=blender" alt="Blender" />
-      </a>
-    </p>
-  </div>
+  </p>
+</div>
 
-  <div class="card">
-    <h2>️ 🛠️ IDEs and Tools 🛠️ ️</h2>
-    <p class="card-content">
-      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" />
-      </a>
-      <a href="https://www.microsoft.com/en-id/windows" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=windows" alt="Windows" />
-      </a>    
-      <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" />
-      </a>
-      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=postgres"/>
-      </a>
-      <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=postman" />
-      </a>
-      </p>
-  </div>
+<br>
 
-  </div>
-<!-- sampai sini -->
+<h2 align="center">🛠️ IDEs and Tools 🛠️</h2>
+
+<p align="center">
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" />
+  </a>
+  <a href="https://www.microsoft.com/en-id/windows" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=windows" alt="Windows" />
+  </a>    
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=postgres"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=postman" />
+  </a>
+</p>
+
+<br>
 
 <div align="center">
   <h2>🎲 Github Stats 🎲</h2>
