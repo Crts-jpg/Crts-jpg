@@ -58,7 +58,7 @@
 <br>
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 1rem;">
-<div style="background-color: #202330; border-radius: 10px; padding: 1rem; width: 80%;">
+<div style="background-color: #5755FE; border-radius: 10px; padding: 1rem; width: 80%;">
     <h2 align="center" style="margin: 0; color: #fff;">🎨 Art Tools 🎨</h2>
     <p align="center" style="margin-top: 0.5rem;">
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
