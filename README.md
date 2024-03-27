@@ -96,7 +96,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Crts-jpg&show_icons=true&locale=en&hide=issues&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true" height="200px" width="450px" alt="Github Stats"/>
   </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Crts-jpg&theme=tokyonight)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Crts-jpg&theme=tokyonight)](https://git.io/streak-stats)
 
   <br>
 
@@ -117,5 +117,3 @@
     <img style="width: 150px; height: 150px; border-radius: 10px; margin: 5px;" src="https://i.pinimg.com/474x/26/34/5e/26345e8598b82a6f3b5e499964887f03.jpg" alt="Support 4"/>
   </p>
 </div>
-
- 
