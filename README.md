@@ -6,7 +6,7 @@
   </h2>
 
   <br>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;"/>
     <div style="text-align: center;">
       <h2>🎮 Programming Languages 🎮</h2>
       <p>
@@ -120,7 +120,7 @@
 </div>
 
   <br>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;"/>
 <div style="text-align: center;">
   <h2>🧩 Support System 🧩</h2>
   <hr/>
