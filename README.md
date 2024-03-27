@@ -1,6 +1,4 @@
 <head>
-  <meta charset="UTF-8">
-  <title>Your Profile Name</title>
   <link rel="stylesheet" href="styles.css">
   <style>
   /* Global Styles */
