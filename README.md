@@ -1,3 +1,72 @@
+<head>
+  <meta charset="UTF-8">
+  <title>Your Profile Name</title>
+  <link rel="stylesheet" href="styles.css">
+  <style>
+  /* Global Styles */
+  body {
+  background-color: #171a29; /* Dark background */
+  color: #fff; /* White text */
+  font-family: "Roboto", sans-serif; /* Fallback to sans-serif if Roboto fails to load */
+  font-weight: 400;
+  font-style: normal;
+  margin: 0;
+  padding: 0;
+  }
+  .container {
+  display: flex; /* Arrange cards horizontally */
+  flex-wrap: wrap; /* Allow cards to wrap to next line */
+  justify-content: center; /* Center cards horizontally */
+  align-items: center; /* Center cards vertically */
+  width: 80%; /* Limit container width for responsiveness */
+  margin: 2rem auto; /* Add some margin */
+  }
+  /* Card Styles */
+  .card {
+  background-color: #202330; /* Darker card background */
+  border-radius: 10px; /* Rounded corners */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+  margin: 1rem;
+  padding: 1.5rem;
+  text-align: center; /* Center content within card */
+  transition: all 0.2s ease-in-out; /* Smoother hover effects */
+  }
+  .card:hover {
+  transform: scale(1.05); /* Slight zoom on hover */
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.3); /* Enhance shadow on hover */
+  }
+  .card h2 {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+  color: #fff; /* White heading text */
+  text-transform: uppercase; /* All caps for a techy feel */
+  letter-spacing: 1px; /* Slightly spaced letters */
+  }
+  .card-content {
+  display: flex; /* Arrange icons horizontally */
+  justify-content: center; /* Center icons horizontally */
+  }
+  .card-content img {
+  width: 50px; /* Consistent icon size */
+  height: 50px; /* Consistent icon size */
+  margin: 0 1rem; /* Spacing between icons */
+  filter: drop-shadow(0 0 3px #00ffff); /* Cyberpunk-style glow */
+  }
+  .card-content img:hover {
+  filter: drop-shadow(0 0 5px #00ffff); /* Enhance glow on hover */
+  }
+  /* Optional: Add a subtle glitch effect (can be commented out if not desired) */
+  .card::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAADuWHblAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwvPAAAAAxBQT/yAAAEAAAAgAAAAYAAQCAACCQAAAAAAAIAAAoAAAAAAEBAAAAUwQAACAAAgAAAgAAAAAgAAAABACgAAACAAAAAAAAAAAcHKAQAACAAAAACAAIAAwAAAAAfB29QAAAAlwQFE+AAAACxBA+gAAAAAgAAAAAAAQAAAAMF8NgAAAAyb47MAAAgAhRDQAAAACYB+j8AAAAAgAAAAAAAQAAAAMlrGQAAAAyb47MAAAgAhRDQAAAACYB+j8AAAAAgAAAAAAAQAAAAMt5HAQAACwAACQAAAAIAAAAC0IRGAAAAnwQAAC4IUvCAAAAAAgAAAAAAAQAAAAM1GHwAAAAyb47MAA")
+  }
+  </style>
+
 <img src="https://media1.tenor.com/m/MZTeWTB-3p4AAAAd/ff7-tifa.gif" width="100%" height="auto"/>
 
 
@@ -5,10 +74,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=40&center=true&vCenter=true&color=00FF00&random=false&width=400&height=80&duration=3000&lines=LEVEL%20UP!" alt="Animated Title" />
 </h2>
 
-
 <br>
-
-
 <!-- dari sini -->
 <div class="container">
 
@@ -139,78 +205,5 @@
     <img style="width: 150px; height: 150px; border-radius: 10px" src="https://i.pinimg.com/474x/26/34/5e/26345e8598b82a6f3b5e499964887f03.jpg" alt="Support 4" />
 </div>
 
-<style>
-  /* Global Styles */
-body {
-  background-color: #171a29; /* Dark background */
-  color: #fff; /* White text */
-  font-family: "Roboto", sans-serif; /* Fallback to sans-serif if Roboto fails to load */
-  font-weight: 400;
-  font-style: normal;
-  margin: 0;
-  padding: 0;
-}
 
-.container {
-  display: flex; /* Arrange cards horizontally */
-  flex-wrap: wrap; /* Allow cards to wrap to next line */
-  justify-content: center; /* Center cards horizontally */
-  align-items: center; /* Center cards vertically */
-  width: 80%; /* Limit container width for responsiveness */
-  margin: 2rem auto; /* Add some margin */
-}
-
-/* Card Styles */
-.card {
-  background-color: #202330; /* Darker card background */
-  border-radius: 10px; /* Rounded corners */
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Subtle shadow */
-  margin: 1rem;
-  padding: 1.5rem;
-  text-align: center; /* Center content within card */
-  transition: all 0.2s ease-in-out; /* Smoother hover effects */
-}
-
-.card:hover {
-  transform: scale(1.05); /* Slight zoom on hover */
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.3); /* Enhance shadow on hover */
-}
-
-.card h2 {
-  font-size: 1.2rem;
-  margin-bottom: 1rem;
-  color: #fff; /* White heading text */
-  text-transform: uppercase; /* All caps for a techy feel */
-  letter-spacing: 1px; /* Slightly spaced letters */
-}
-
-.card-content {
-  display: flex; /* Arrange icons horizontally */
-  justify-content: center; /* Center icons horizontally */
-}
-
-.card-content img {
-  width: 50px; /* Consistent icon size */
-  height: 50px; /* Consistent icon size */
-  margin: 0 1rem; /* Spacing between icons */
-  filter: drop-shadow(0 0 3px #00ffff); /* Cyberpunk-style glow */
-}
-
-.card-content img:hover {
-  filter: drop-shadow(0 0 5px #00ffff); /* Enhance glow on hover */
-}
-
-
-
-/* Optional: Add a subtle glitch effect (can be commented out if not desired) */
-.card::after {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAADuWHblAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwvPAAAAAxBQT/yAAAEAAAAgAAAAYAAQCAACCQAAAAAAAIAAAoAAAAAAEBAAAAUwQAACAAAgAAAgAAAAAgAAAABACgAAACAAAAAAAAAAAcHKAQAACAAAAACAAIAAwAAAAAfB29QAAAAlwQFE+AAAACxBA+gAAAAAgAAAAAAAQAAAAMF8NgAAAAyb47MAAAgAhRDQAAAACYB+j8AAAAAgAAAAAAAQAAAAMlrGQAAAAyb47MAAAgAhRDQAAAACYB+j8AAAAAgAAAAAAAQAAAAMt5HAQAACwAACQAAAAIAAAAC0IRGAAAAnwQAAC4IUvCAAAAAAgAAAAAAAQAAAAM1GHwAAAAyb47MAAAgAhRDQAAAACYB+j8AAAAAgAAAAAAAQAAAAMuKHgQAACwAACQAAAAIAAAAC2IRIAAAAnowQAAC4IUvCAAAAAAgAAAAAAAQAAAAM3JHgAAAAyb47MAAAgAhRDQAAAACYB+j8AAAAAgAAAAAAAQAAAANApKAQAACwAACQAAAAIAAAAC4IRKAAAAnwQAAC4IUvCAAAAAAgAAAAAAAQAAAAM5KHgAAAAyb47MAAAgAhRDQAAAACYB+j8AAAAAgAAAAAAAQAAAANCoLgQAACwAACQAAAAIAAA
-
-
-</style>
+</head>
