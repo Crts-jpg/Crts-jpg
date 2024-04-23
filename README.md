@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/MZTeWTB-3p4AAAAd/ff7-tifa.gif" width="100%" height="auto"/>
+  
 
   <h2>
     <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=40&center=true&vCenter=true&color=00FF00&random=false&width=400&height=80&duration=3000&lines=LEVEL%20UP!" alt="Animated Title" />
@@ -110,14 +110,4 @@
   </p>
 
   <br>
-
-  <h2>🧩 Support System 🧩</h2>
-  <hr/>
-  <br>
-    <p align="center">
-    <img style="width: 150px; height: 150px; border-radius: 10px; margin: 5px;" src="https://i.pinimg.com/474x/f5/31/8b/f5318b2e0906c95f4d5e79680f0eb42f.jpg" alt="Support 1"/>
-    <img style="width: 150px; height: 150px; border-radius: 10px; margin: 5px;" src="https://i.pinimg.com/474x/a5/06/07/a50607288b70b9c5f2fef3a355718ec7.jpg" alt="Support 2"/>
-    <img style="width: 150px; height: 150px; border-radius: 10px; margin: 5px;" src="https://i.pinimg.com/474x/ef/cf/6e/efcf6ed5870b3ca0b0404f58d6726d82.jpg" alt="Support 3"/>
-    <img style="width: 150px; height: 150px; border-radius: 10px; margin: 5px;" src="https://i.pinimg.com/474x/26/34/5e/26345e8598b82a6f3b5e499964887f03.jpg" alt="Support 4"/>
-  </p>
 </div>
