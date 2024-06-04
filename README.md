@@ -14,7 +14,7 @@
   <h2>🎮 Programming Languages 🎮</h2>
   <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,babel,bootstrap,cpp,css,dart,figma,flask,flutter,nextjs" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,babel,bootstrap,cpp,css,dart,figma,flask,flutter,nextjs" alt="Next.JS" />
   </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img src="https://skillicons.dev/icons?i=py" alt="Python"/>
