@@ -59,7 +59,7 @@
     </div>
   </div>
 
-  <div class="jett" align="center>
+  <div>
     <img align="right" src="https://media1.tenor.com/m/4kgpgqwgw4UAAAAd/jett-dopatwo.gif" width=200px />
     <div align="left">
       <p>
