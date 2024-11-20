@@ -60,7 +60,6 @@
   </div>
 
   <div class="jett" align="center>
-        <!-- <img align="right" src="https://media1.tenor.com/m/4kgpgqwgw4UAAAAd/jett-dopatwo.gif" width=200px /> -->
     <img align="right" src="https://media1.tenor.com/m/4kgpgqwgw4UAAAAd/jett-dopatwo.gif" width=200px />
     <div align="left">
       <p>
